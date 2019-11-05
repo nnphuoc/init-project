@@ -34,7 +34,7 @@
     "lodash": "^4.17.11",
     "method-override": "^3.0.0",
     "mime-types": "^2.1.24",
-    "mongoose": "^5.5.3",
+    "mongoose": "^5.7.5",
     "mongoose-delete": "^0.5.0",
     "mongoose-paginate": "^5.0.3",
     "morgan": "^1.9.1",
