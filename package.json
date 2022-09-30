@@ -9,7 +9,7 @@
   "author": "phuocnn",
   "license": "ISC",
   "dependencies": {
-    "@hapi/joi": "^15.1.0",
+    "@hapi/joi": "^15.1.1",
     "api-query-params": "^4.13.0",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
